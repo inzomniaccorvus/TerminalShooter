@@ -97,7 +97,7 @@ int main(void)
                     show_victory(game.score);
                     save_high_score(game.score);
                     remove("savegame.dat"); // Clear save file
-                    break;
+                    exit(0);
                 }
                 else
                 {

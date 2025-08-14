@@ -25,7 +25,7 @@
 
 // Game timing (lower = faster)
 #define BASE_TICK_DELAY 25
-#define SHOOT_COOLDOWN_TICKS 14
+#define SHOOT_COOLDOWN_TICKS 15
 #define ENEMY_MOVE_DELAY 6
 #define BULLET_MOVE_DELAY 3
 
