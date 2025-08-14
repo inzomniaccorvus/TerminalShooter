@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Terminal Shooter (external terminal)",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/terminal_shooter.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "gdb.exe",
+            "preLaunchTask": "Build Terminal Shooter"
+        }
+    ]
+}
