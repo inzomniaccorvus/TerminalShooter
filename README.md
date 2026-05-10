@@ -2,7 +2,7 @@
 
 A Space Invaders-style arcade shooter running entirely in the Windows terminal. Built from scratch in C with no external libraries — includes a custom double-buffered terminal renderer using the Windows Console API.
 
-> Built as a CSE115 Structured Programming capstone project at North South University, Fall 2025.
+> Built as a CSE115 Structured Programming capstone project at North South University, Summer 2025.
 
 ![Gameplay GIF](gameplay.gif)
 
