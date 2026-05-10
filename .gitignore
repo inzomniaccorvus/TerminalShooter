@@ -1,6 +1,11 @@
-obj
-bin
-build
-terminal_shooter.*
+build/*.o
+build/*.d
+build/terminal_shooter.exe
+bin/
+obj/
 highscores.dat
 savegame.dat
+*.cbp
+*.depend
+*.layout
+.vscode/
