@@ -4,7 +4,6 @@ A Space Invaders-style arcade shooter running entirely in the Windows terminal. 
 
 > Built as a CSE115 Structured Programming capstone project at North South University, Summer 2025.
 
-![Gameplay GIF](gameplay.gif)
 
 ---
 
