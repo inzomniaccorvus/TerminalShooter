@@ -24,7 +24,7 @@ void init_game_state(GameState *game)
 
     // Game state reset
     game->score = 0;
-    game->current_level = 9;
+    game->current_level = 0;
     game->enemy_count = 0;
     game->enemy_direction = 1;
     game->shoot_cooldown = 0;
